@@ -13,6 +13,7 @@
     "@stripe/stripe-js": "^1.16.0",
     "axios": "^0.21.1",
     "faunadb": "^4.3.0",
+    "netlify-cli": "^6.8.8",
     "next": "11.0.0",
     "next-auth": "^3.27.1",
     "prismic-dom": "^2.2.6",
